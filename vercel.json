@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/generate-word.js": {
+      "maxDuration": 30
+    }
+  }
+}
